@@ -1,0 +1,37 @@
+body {
+    font-family: 'Verdana Pro';
+}
+.dasmoto-h1 {
+    background-image: url(pattern.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    font-size: 100px;
+    color: khaki;
+    text-align:center;
+}
+
+h2{
+    font-size:32px;
+    font-weight: bold;
+    color: white;
+}
+
+img {
+    width: 200px;
+    height : 200px;
+}
+
+span{
+    font-weight: bold;
+    color:blue;
+}
+
+.brushes{
+    background-color: mediumspringgreen;
+}
+.frames{
+    background-color: lightcoral; 
+}
+.finnish {
+    background-color: skyblue; 
+}
